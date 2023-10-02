@@ -51,6 +51,10 @@ h2{
     margin-bottom: 35px;
 }
 
+h3{
+    color:#f0f0f0;
+}
+
 #flag{
     max-width: 600px;
     margin-left: auto;
@@ -117,6 +121,7 @@ input::placeholder{
 
 #result{
     margin-top: 10px;
+    color: #f0f0f0;
     margin-bottom: 10px;
     font-size: 15px;
 }
